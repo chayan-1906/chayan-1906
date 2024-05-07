@@ -93,4 +93,8 @@ I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'
 [![JSON Badge](https://img.shields.io/badge/-JSON-A3A3A3?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
 [![YAML Badge](https://img.shields.io/badge/-YAML-F7F7F7?style=flat-square&logo=YAML&logoColor=white)](https://yaml.org/)
 ---
+[![ReactJs Badge](https://img.shields.io/badge/-react-EBECF0?style=flat-square&logo=react&logoColor=#3998B6)](https://www.react.org/)
+[![React Native Badge](https://img.shields.io/badge/-reactnative-282C34?style=flat-square&logo=reactnative&logoColor=white)](http://ww1.reactnative.org/)
+[![Expo Badge](https://img.shields.io/badge/-expo-23292D?style=flat-square&logo=expo&logoColor=#11181C)](https://github.com/expo/expo/blob/main/README.md)
+---
 [![Automation Badge](https://img.shields.io/badge/-Selenium-00A61B?style=flat-square&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
