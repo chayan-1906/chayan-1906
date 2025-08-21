@@ -1,105 +1,200 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!;This+is+Padmanabha.;Nice+to+meet+you!;Have+a+great+day!;&center=true&size=35">
-  </a>
-</h1>
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Padmanabha+Das;Full-Stack+Developer;MCP+Server+Architect;AI+Integration+Specialist;Building+the+Future!&center=true&size=30&color=0398FC&font=Inter">
+    </a>
+  </h1>
+</div>
 
-### Glad to see you here!
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-I'm Padmanabha Das, a software developer. I am from Murshidabad, West Bengal. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Mobile applications & learning Next.js for web development.
-
-### Talking about Personal Stuff:
-
-- I’m currently working with [Flutter](https://flutter.dev/), [Dart](https://Dart.dev), [Next Js](https://nextjs.org/docs).
-- I love exploring new tech stack and building cool stuffs.
-- Most of my projects are available on [Github](https://github.com/chayan-1906/).
-- How to reach me: padmanabhadas9647@gmail.com
-- Checkout [Resume](https://github.com/chayan-1906/chayan-1906/blob/main/Padmanabha_Das_Resume.pdf).
-
-###  Connect with me 
-
-<p align="left">
-<a href="https://www.linkedin.com/in/padmanabha-das-59bb2019b/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</a>
-<a href="https://www.facebook.com/padmanabha.das.94/">
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook-6379AD?style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/pdas_1906/">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=+919647100133">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-</a>
-<a href="mailto:padmanabhadas9647@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chayan-1906&style=for-the-badge&color=blue" alt=""/>
+</div>
 
 ---
 
-### My Stats:
+## 🚀 About Me
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chayan-1906&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true"/>
-	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan-1906&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+> **Full-Stack Developer | MCP Server Architect | AI Integration Enthusiast**
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayan-1906&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
+I'm Padmanabha Das, a passionate software engineer from Murshidabad, West Bengal, India, currently working at **Remix Labs** as Product Analyst. I specialize in building scalable web applications, cross-platform mobile apps, and cutting-edge AI-powered solutions. My expertise spans from modern frontend frameworks to robust backend architectures.
 
-</p>
+🎯 **Currently Building:** MCP (Model Context Protocol) servers to extend AI agents' capabilities  
+💡 **Passion:** Creating production-ready applications that solve real-world problems  
+🌱 **Learning:** Advanced AI integration patterns and distributed systems  
 
-*NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
-<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
-### I'm a Working Professional, Developer and Learner!
+## 🛠️ Tech Arsenal
 
-- 🌱 I’m currently working at Remix Labs as SDE-I
-- 👯 I’m looking to collaborate with other people for projects
-<br><br><br><br><br><br><br><br>
----
-
-### My Skills:
+### 💻 Frontend & Web
+<div align="center">
   
-[![Flutter Badge](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white)](https://Flutter.dev/)
-[![Dart Badge](https://img.shields.io/badge/Dart-Language-blue?logo=dart)](https://dart.dev/)
-[![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
-[![GetX Badge](https://img.shields.io/badge/-GetX-8913F3?style=flat-square&logo=GetX&logoColor=white)](https://pub.dev/packages/get)
-[![Hive Badge](https://img.shields.io/badge/-Hive-E31337?style=flat&logo=hive_blockchain&logoColor=white)](https://pub.dev/packages/hive)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Databases
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hygraph](https://img.shields.io/badge/Hygraph-1B1A2E?style=for-the-badge&logo=graphcms&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+</div>
+
+### 🤖 AI & Modern Tools
+<div align="center">
+  
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Desktop-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
 ---
-[![Android Badge](https://img.shields.io/badge/Android-3CDA84?&style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![Java Badge](https://img.shields.io/badge/Java-3A75AF?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+
+## 🎯 Featured Projects
+
+<div align="center">
+  
+| 🚌 **Bus Booking System** | 🏥 **Healthcare Platform** | 🤖 **MCP Servers** |
+|:---:|:---:|:---:|
+| React Native + Node.js | Next.js 15 + Appwrite | TypeScript + AI Integration |
+| [BusGo](https://github.com/chayan-1906/Busgo-React-Native) | [CarePulse](https://github.com/chayan-1906/CarePulse-Next.js) | [FS-MCP](https://github.com/chayan-1906/FS-MCP) |
+
+| 🏠 **Airbnb Clone** | 📊 **Jira Clone** | 🍔 **Food Delivery** |
+|:---:|:---:|:---:|
+| Next.js 14 + Full-stack | Next.js 15 + Appwrite | React Native |
+| [Airbnb-Clone](https://github.com/chayan-1906/Airbnb-Next.js) | [Jira](https://github.com/chayan-1906/Jira) | [Foodies](https://github.com/chayan-1906/Foodies-React-Native) |
+
+</div>
+
 ---
-[![Sqlite Badge](https://img.shields.io/badge/-SQLite-249AD4?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-015A84?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![Mongo Badge](https://img.shields.io/badge/-MongoDB-02C359?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
-[![Postgresql Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![JDBC Badge](https://img.shields.io/badge/-JDBC-EA7869?style=flat-square&logo=JDBC&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
-[![H2 Badge](https://img.shields.io/badge/-H2-0000BA?style=flat-square&logo=H2DB&logoColor=white)](https://www.h2database.com/)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chayan-1906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayan-1906&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan-1906&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=KNN-Image-Classification"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan-1906&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
 ---
-[![Spring Badge](https://img.shields.io/badge/-Spring-6CB52C?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
-[![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-6CB52C?style=flat-square&logo=SpringBoot&logoColor=white)](https://spring.io/)
-[![Hibernate Badge](https://img.shields.io/badge/-Hibernate-58666B?style=flat-square&logo=Hibernate&logoColor=white)](https://hibernate.org/)
-[![Tomcat Badge](https://img.shields.io/badge/-Tomcat-D2A41E?style=flat-square&logo=ApacheTomcat&logoColor=white)](https://tomcat.apache.org/)
-[![Postman Badge](https://img.shields.io/badge/Postman-FE6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
+
+## 🏆 Achievements & Highlights
+
+<div align="center" style="display: flex; justify-content: center;">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=chayan-1906&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+  
+![Public Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=8b5cf6&color=8b5cf6&query=%24.public_repos&url=https%3A//api.github.com/users/chayan-1906&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/chayan-1906?style=for-the-badge&color=8b5cf6)
+![GitHub User's stars](https://img.shields.io/github/stars/chayan-1906?style=for-the-badge&color=8b5cf6)
+
+</div>
+
+**🔥 MCP Server Architect** | **🚀 Full-Stack Expert** | **📱 Cross-Platform Developer**
+
+- 🎯 **Specialization:** Scalable web applications with Next.js & React ecosystem
+- 🤖 **Innovation:** MCP servers for extending AI agent capabilities
+- 📱 **Mobile Expertise:** React Native, Flutter, and native iOS/Android development
+- 🏗️ **Backend Architecture:** Node.js, Express, Spring Boot with modern databases
+- 🎨 **Design Focus:** Responsive, accessible interfaces with modern UX principles
+
 ---
-[![HTML Badge](https://img.shields.io/badge/-HTML5-E54C21?style=flat-square&logo=HTML5&logoColor=white)](https://html.com/)
-[![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Git Badge](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-E24328?style=flat-square&logo=Gitlab&logoColor=white)](https://about.gitlab.com/)
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabha-das-59bb2019b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://padmanabha-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmanabhadas9647@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pd_1906/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919647100133)
+
+</div>
+
 ---
-[![JSON Badge](https://img.shields.io/badge/-JSON-A3A3A3?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
-[![YAML Badge](https://img.shields.io/badge/-YAML-F7F7F7?style=flat-square&logo=YAML&logoColor=white)](https://yaml.org/)
+
+## 💼 Professional Journey
+
+```typescript
+const padmanabha = {
+  currentRole: "Product Analyst at Remix Labs",
+  location: "Murshidabad, West Bengal, India",
+  expertise: [
+    "Full-Stack Development",
+    "Mobile App Development", 
+    "AI Integration",
+    "MCP Server Architecture"
+  ],
+  currentFocus: "Building next-gen AI-powered applications",
+  availableFor: "Collaboration on innovative projects"
+};
+```
+
 ---
-[![ReactJs Badge](https://img.shields.io/badge/-react-EBECF0?style=flat-square&logo=react&logoColor=#3998B6)](https://www.react.org/)
-[![React Native Badge](https://img.shields.io/badge/-reactnative-282C34?style=flat-square&logo=reactnative&logoColor=white)](http://ww1.reactnative.org/)
-[![Expo Badge](https://img.shields.io/badge/-expo-23292D?style=flat-square&logo=expo&logoColor=#11181C)](https://github.com/expo/expo/blob/main/README.md)
+
+## 💭 Developer Mindset
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  
+### 🚀 "Building the future, one line of code at a time" 
+
+**Thank you for visiting! Feel free to explore my repositories and connect for exciting collaborations!**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+
+</div>
+
 ---
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
-[![Tailwind CSS Badge](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)](https://v2.tailwindcss.com/docs)
-[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
----
-[![Automation Badge](https://img.shields.io/badge/-Selenium-00A61B?style=flat-square&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
