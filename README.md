@@ -86,16 +86,27 @@ I'm Padmanabha Das, a passionate software engineer from Murshidabad, West Bengal
 ## 🎯 Featured Projects
 
 <div align="center">
-  
-| 🚌 **Bus Booking System** | 🏥 **Healthcare Platform** | 🤖 **MCP Servers** |
-|:---:|:---:|:---:|
-| React Native + Node.js | Next.js 15 + Appwrite | TypeScript + AI Integration |
-| [BusGo](https://github.com/chayan-1906/Busgo-React-Native) | [CarePulse](https://github.com/chayan-1906/CarePulse-Next.js) | [FS-MCP](https://github.com/chayan-1906/FS-MCP) |
 
-| 🏠 **Airbnb Clone** | 📊 **Jira Clone** | 🍔 **Food Delivery** |
-|:---:|:---:|:---:|
-| Next.js 14 + Full-stack | Next.js 15 + Appwrite | React Native |
-| [Airbnb-Clone](https://github.com/chayan-1906/Airbnb-Next.js) | [Jira](https://github.com/chayan-1906/Jira) | [Foodies](https://github.com/chayan-1906/Foodies-React-Native) |
+  <a href="https://github.com/chayan-1906/GitHub-MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=GitHub-MCP&theme=dark" />
+  </a>
+  <a href="https://github.com/chayan-1906/FS-MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=FS-MCP&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/chayan-1906/Busgo-React-Native">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Busgo-React-Native&theme=dark" />
+  </a>
+  <a href="https://github.com/chayan-1906/Foodies-React-Native">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Foodies-React-Native&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/chayan-1906/Jira">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Jira&theme=dark" />
+  </a>
+  <a href="https://github.com/chayan-1906/Airbnb-Next.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Airbnb-Next.js&theme=dark" />
+  </a>
 
 </div>
 
