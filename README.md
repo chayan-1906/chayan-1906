@@ -88,24 +88,24 @@ I'm Padmanabha Das, a passionate software engineer from Murshidabad, West Bengal
 <div align="center">
 
   <a href="https://github.com/chayan-1906/PulsePress-Node.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=PulsePress-Node.js&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=PulsePress-Node.js&theme=dark&cache_seconds=86400" />
   </a>
   <a href="https://github.com/chayan-1906/IntelliCourse-Next.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=IntelliCourse-Next.js&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=IntelliCourse-Next.js&theme=dark&cache_seconds=86400" />
   </a>
 
   <a href="https://github.com/chayan-1906/FS-MCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=FS-MCP&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=FS-MCP&theme=dark&cache_seconds=86400" />
   </a>
   <a href="https://github.com/chayan-1906/GitHub-MCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=GitHub-MCP&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=GitHub-MCP&theme=dark&cache_seconds=86400" />
   </a>
 
   <a href="https://github.com/chayan-1906/Busgo-React-Native">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Busgo-React-Native&theme=dark" height="150rem" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Busgo-React-Native&theme=dark&cache_seconds=86400" />
   </a>
   <a href="https://github.com/chayan-1906/Airbnb-Next.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Airbnb-Next.js&theme=dark" height="150rem" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chayan-1906&repo=Airbnb-Next.js&theme=dark&cache_seconds=86400" />
   </a>
 
 </div>
